@@ -1,5 +1,3 @@
-<img align="left" src="/boho.png">
-
 ## Hi there,
 I'm a student and silly thing.
 
